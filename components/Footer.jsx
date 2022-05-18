@@ -7,10 +7,10 @@ const Footer = () => {
       <p>2022 © La caverne High-Tech de Bastien</p>
       <p className="icons">
         <a href="https://www.instagram.com/bastosnz74/">
-          <AiFillInstagram className="icon" size={30} />
+          <AiFillInstagram className="icon" size={25} />
         </a>
         <a href="https://github.com/bastosnz74">
-          <AiFillGithub className="icon" size={30} />
+          <AiFillGithub className="icon" size={25} />
         </a>
       </p>
     </div>
