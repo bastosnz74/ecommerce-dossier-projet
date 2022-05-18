@@ -7,7 +7,6 @@ const HeroBanner = ({ heroBanner , buttonText }) => {
   return (
     <div className="hero-banner-container">
       <div>
-        <p className="beats-solo">La caverne High-Tech de Bastien</p>
         <h3>Boutique E-Commerce</h3>
         <h3>High-Tech</h3>
         <Link href={`/allproduct`}>
